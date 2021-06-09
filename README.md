@@ -1,10 +1,3 @@
-<p align='center'>
-  <a href="https://github.com/WhiteHair-H">
-    <img src="https://github-readme-stats.vercel.app/api?username=HaJinwoo&theme=synthwave&show_icons=true"/>
-  </a>
-</p>
-
-
 # GithubMarkDown
 Github 마크다운 정리
 
